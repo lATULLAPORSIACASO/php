@@ -1,0 +1,4 @@
+.texto-vertical-2 {
+    writing-mode: horizontal-tb;
+    transform: rotate(180deg);
+  }
